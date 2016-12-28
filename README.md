@@ -1,2 +1,3 @@
-"# nelson-thirdparty-linux32" 
-"# nelson-thirdparty-linux32" 
+Third party Linux 32 bits for Nelson
+
+Allan CORNET 2016
